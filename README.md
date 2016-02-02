@@ -1,4 +1,6 @@
-#Area Code Lookup - AWS Lambda function for Alexa (Amazon Echo)
+#Area Code Lookup
+###AWS Lambda function for Alexa (Amazon Echo)
+<hr>
 A simple [AWS Lambda](http://aws.amazon.com/lambda) function that performs a lookup of an area code and returns a location description.
 
 ## Concepts

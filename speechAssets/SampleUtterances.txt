@@ -1,0 +1,3 @@
+RecipeIntent where is {Item}
+RecipeIntent to lookup {Item}
+RecipeIntent to find {Item}

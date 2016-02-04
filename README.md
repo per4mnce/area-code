@@ -2,6 +2,7 @@
 ###AWS Lambda function for Alexa (Amazon Echo)
 <hr>
 A simple [AWS Lambda](http://aws.amazon.com/lambda) function that performs a lookup of an area code and returns a location description.
+Sample session can be found in [mama-jokes/Sounds/Jokes.mp3](https://github.com/per4mnce/area-code/tree/master/Sounds)
 
 ## Concepts
 This application shows how to create a Lambda function for handling Alexa Skill requests

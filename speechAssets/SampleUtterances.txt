@@ -1,3 +1,14 @@
 RecipeIntent where is {Item}
-RecipeIntent to lookup {Item}
-RecipeIntent to find {Item}
+RecipeIntent where {Item} is
+RecipeIntent what the location of area code {Item}
+RecipeIntent what the location of area code {Item} is
+RecipeIntent what is the location of area code {Item}
+RecipeIntent what's' the location of area code {Item}
+RecipeIntent look up {Item}
+RecipeIntent find {Item}
+RecipeIntent tell me where {Item} is
+RecipeIntent give me the location of area code {Item}
+RecipeIntent give me the location of {Item}
+RecipeIntent location of {Item}
+RecipeIntent location of area code {Item}
+RecipeIntent {Item}

@@ -872,7 +872,7 @@ module.exports = {
   "561": {
     "Region":"FL",
     "TimezoneOffset":"-5",
-    "Description":"S. Central Florida: Palm Beach County (West Palm Beach, Boca Raton, Vero Beach"
+    "Description":"Sout Central Florida: Palm Beach County including West Palm Beach, Boca Raton, Vero Beach"
   },
   "562": {
     "Region":"CA",
@@ -917,7 +917,7 @@ module.exports = {
   "575": {
     "Region":"NM",
     "TimezoneOffset":"-7",
-    "Description":"New Mexico (Las Cruces, Alamogordo, Roswell"
+    "Description":"New Mexico including Las Cruces, Alamogordo, Roswell"
   },
   "579": {
     "Region":"QC",
@@ -997,7 +997,7 @@ module.exports = {
   "610": {
     "Region":"PA",
     "TimezoneOffset":"-5",
-    "Description":"SE Pennsylvania: Allentown, Bethlehem, Reading, West Chester, Norristown (see overlays484,835)"
+    "Description":"South Eastern Pennsylvania including: Allentown, Bethlehem, Reading, West Chester, Norristown"
   },
   "611": {
     "Region":"None",
@@ -1007,107 +1007,107 @@ module.exports = {
   "612": {
     "Region":"MN",
     "TimezoneOffset":"-6",
-    "Description":"Cent. Minnesota: Minneapolis (split from St. Paul, see651; see splits763,952)"
+    "Description":"Central Minnesota: Minneapolis "
   },
   "613": {
     "Region":"ON",
     "TimezoneOffset":"-5",
-    "Description":"Canada: SE Ontario: Ottawa (see overlay343)"
+    "Description":"Canada: South Eastern Ontario: including Ottawa"
   },
   "614": {
     "Region":"OH",
     "TimezoneOffset":"-5",
-    "Description":"SE Ohio: Columbus (see overlay380)"
+    "Description":"South Eastern Ohio: including Columbus"
   },
   "615": {
     "Region":"TN",
     "TimezoneOffset":"-6",
-    "Description":"Northern Middle Tennessee: Nashville metro area (see423,931; see overlay629, eff 2014)"
+    "Description":"Northern Middle Tennessee: Nashville metro area"
   },
   "616": {
     "Region":"MI",
     "TimezoneOffset":"-5",
-    "Description":"W Michigan: Holland, Grand Haven, Greenville, Grand Rapids, Ionia (see split269)"
+    "Description":"W Michigan: Holland, Grand Haven, Greenville, Grand Rapids, Ionia"
   },
   "617": {
     "Region":"MA",
     "TimezoneOffset":"-5",
-    "Description":"Massachusetts: greater Boston (see overlay857)"
+    "Description":"Massachusetts: greater Boston "
   },
   "618": {
     "Region":"IL",
     "TimezoneOffset":"-6",
-    "Description":"S Illinois: Centralia"
+    "Description":"Southern Illinois: Centralia"
   },
   "619": {
     "Region":"CA",
     "TimezoneOffset":"-8",
-    "Description":"S California: San Diego (see split760; overlay858,935)"
+    "Description":"Southern California: San Diego "
   },
   "620": {
     "Region":"KS",
     "TimezoneOffset":"-6",
-    "Description":"S Kansas: Wichita (split from316; perm 2/3/01)"
+    "Description":"Southern Kansas: Wichita"
   },
   "623": {
     "Region":"AZ",
     "TimezoneOffset":"-7*",
-    "Description":"Arizona: West Phoenix (see520; also Phoenix split480,602)"
+    "Description":"Arizona: West Phoenix"
   },
   "626": {
     "Region":"CA",
     "TimezoneOffset":"-8",
-    "Description":"E S California: Pasadena (split from818Los Angeles)"
+    "Description":"East Southern California: Pasadena"
   },
   "627": {
     "Region":"CA",
     "TimezoneOffset":"-8",
-    "Description":"No longer in use [was Napa, Sonoma counties (perm 10/13/01, mand 4/13/02); now707]"
+    "Description":"No longer in use"
   },
   "628": {
     "Region":"CA",
     "TimezoneOffset":"-8",
-    "Description":"California: San Francisco County and Marin County on the north side of the Golden Gate Bridge, extending north to Sonoma County (overlaid on415, eff 2/2015)"
+    "Description":"California: San Francisco County and Marin County on the north side of the Golden Gate Bridge, extending north to Sonoma County"
   },
   "629": {
     "Region":"TN",
     "TimezoneOffset":"-6",
-    "Description":"Northern Middle Tennessee: Nashville metro area (see423,931; overlaid on615, eff 2014)"
+    "Description":"Northern Middle Tennessee: Nashville metro area"
   },
   "630": {
     "Region":"IL",
     "TimezoneOffset":"-6",
-    "Description":"W NE Illinois, western suburbs of Chicago (part of what used to be708; overlay331)"
+    "Description":"West North Eastern Illinois, western suburbs of Chicago"
   },
   "631": {
     "Region":"NY",
     "TimezoneOffset":"-5",
-    "Description":"New York: Suffolk County, Long Island; Huntington, Riverhead (split516)"
+    "Description":"New York: Suffolk County, Long Island; Huntington, Riverhead"
   },
   "636": {
     "Region":"MO",
     "TimezoneOffset":"-6",
-    "Description":"Missouri: W St. Louis metro area of St. Louis county, St. Charles County, Jefferson County area south (between314and573)"
+    "Description":"Missouri: Western St. Louis metro area of St. Louis county, St. Charles County, Jefferson County area south"
   },
   "639": {
     "Region":"SK",
     "TimezoneOffset":"-6/-7*",
-    "Description":"Canada: Saskatchewan (overlaid on306)"
+    "Description":"Canada: Saskatchewan"
   },
   "641": {
     "Region":"IA",
     "TimezoneOffset":"-6",
-    "Description":"Iowa: Mason City, Marshalltown, Creston, Ottumwa (split from515; perm 7/9/00)"
+    "Description":"Iowa: Mason City, Marshalltown, Creston, Ottumwa"
   },
   "646": {
     "Region":"NY",
     "TimezoneOffset":"-5",
-    "Description":"New York (overlay212/917) NYC (mostly mobile)"
+    "Description":"New York"
   },
   "647": {
     "Region":"ON",
     "TimezoneOffset":"-5",
-    "Description":"Canada: S Cent. Ontario: Toronto (overlaid on416)"
+    "Description":"Canada: S Cent. Ontario: Toronto"
   },
   "649": {
     "Region":"None",
@@ -1117,47 +1117,47 @@ module.exports = {
   "650": {
     "Region":"CA",
     "TimezoneOffset":"-8",
-    "Description":"California: Peninsula south of San Francisco -- San Mateo County, parts of Santa Clara County (split from415)"
+    "Description":"California: Peninsula south of San Francisco -- San Mateo County, parts of Santa Clara County"
   },
   "651": {
     "Region":"MN",
     "TimezoneOffset":"-6",
-    "Description":"Cent. Minnesota: St. Paul (split from Minneapolis, see612)"
+    "Description":"Central Minnesota: St. Paul"
   },
   "657": {
     "Region":"CA",
     "TimezoneOffset":"-8",
-    "Description":"Northern and western Orange County (overlaid on714)"
+    "Description":"Northern and Western Orange County"
   },
   "660": {
     "Region":"MO",
     "TimezoneOffset":"-6",
-    "Description":"N Missouri (split from816)"
+    "Description":"North Missouri"
   },
   "661": {
     "Region":"CA",
     "TimezoneOffset":"-8",
-    "Description":"California: N Los Angeles, Mckittrick, Mojave, Newhall, Oildale, Palmdale, Taft, Tehachapi, Bakersfield, Earlimart, Lancaster (split from805)"
+    "Description":"California: North Los Angeles: including Mckittrick, Mojave, Newhall, Oildale, Palmdale, Taft, Tehachapi, Bakersfield, Earlimart, Lancaster"
   },
   "662": {
     "Region":"MS",
     "TimezoneOffset":"-6",
-    "Description":"N Mississippi: Tupelo, Grenada (split from601)"
+    "Description":"North Mississippi: Tupelo, Grenada"
   },
   "664": {
-    "Region":"--",
+    "Region":"None",
     "TimezoneOffset":"-4",
-    "Description":"Montserrat (split from809)"
+    "Description":"Montserrat"
   },
   "669": {
     "Region":"CA",
     "TimezoneOffset":"-8",
-    "Description":"Cent. Coastal California: San Jose (overlaid on408; eff 10/20/2012)"
+    "Description":"Central Coastal California: San Jose"
   },
   "670": {
     "Region":"MP",
     "TimezoneOffset":"+10*",
-    "Description":"Commonwealth of the Northern Mariana Islands (CNMI, US Commonwealth)"
+    "Description":"Commonwealth of the Northern Mariana Islands"
   },
   "671": {
     "Region":"GU",
@@ -1167,22 +1167,22 @@ module.exports = {
   "678": {
     "Region":"GA",
     "TimezoneOffset":"-5",
-    "Description":"N Georgia: metropolitan Atlanta (overlay; see404,770)"
+    "Description":"N Georgia: metropolitan Atlanta"
   },
   "679": {
     "Region":"MI",
     "TimezoneOffset":"0.833333333",
-    "Description":"Michigan: Dearborn area (overlaid on313; assigned but not in use)"
+    "Description":"Michigan: Dearborn area"
   },
   "681": {
     "Region":"WV",
     "TimezoneOffset":"-5",
-    "Description":"West Virginia (overlaid on304)"
+    "Description":"West Virginia"
   },
   "682": {
     "Region":"TX",
     "TimezoneOffset":"-6",
-    "Description":"Texas: Fort Worth areas (perm 10/7/00, mand 12/9/00)"
+    "Description":"Texas: Fort Worth areas"
   },
   "684": {
     "Region":"None",
@@ -1192,7 +1192,7 @@ module.exports = {
   "689": {
     "Region":"FL",
     "TimezoneOffset":"-5",
-    "Description":"Central Florida: Metro Orlando (see overlay321; overlaid on407, assigned but not in use)"
+    "Description":"Central Florida: Metro Orlando"
   },
   "700": {
     "Region":"None",
@@ -1207,37 +1207,37 @@ module.exports = {
   "702": {
     "Region":"NV",
     "TimezoneOffset":"-8",
-    "Description":"S. Nevada: Clark County, incl Las Vegas (overlay725, eff 6/2014; see also775)"
+    "Description":"S. Nevada: Clark County, including Las Vegas"
   },
   "703": {
     "Region":"VA",
     "TimezoneOffset":"-5",
-    "Description":"Northern Virginia: Arlington, McLean, Tysons Corner (see split540; overlay571)"
+    "Description":"Northern Virginia: Arlington, McLean, Tysons Corner"
   },
   "704": {
     "Region":"NC",
     "TimezoneOffset":"-5",
-    "Description":"W North Carolina: Charlotte (see split828, overlay980)"
+    "Description":"Western North Carolina: Charlotte"
   },
   "705": {
     "Region":"ON",
     "TimezoneOffset":"-5",
-    "Description":"Canada: NE Ontario: Sault Ste. Marie/N Ontario: N Bay, Sudbury"
+    "Description":"Canada: North Eastern Ontario: Sault Ste. Marie/N Ontario: N Bay, Sudbury"
   },
   "706": {
     "Region":"GA",
     "TimezoneOffset":"-5",
-    "Description":"N Georgia: Columbus, Augusta (see overlay762)"
+    "Description":"Northern Georgia: Columbus, Augusta"
   },
   "707": {
     "Region":"CA",
     "TimezoneOffset":"-8",
-    "Description":"NW California: Santa Rosa, Napa, Vallejo, American Canyon, Fairfield"
+    "Description":"North Western California: Santa Rosa, Napa, Vallejo, American Canyon, Fairfield"
   },
   "708": {
     "Region":"IL",
     "TimezoneOffset":"-6",
-    "Description":"Illinois: southern and western suburbs of Chicago (see630; overlay464)"
+    "Description":"Illinois: southern and western suburbs of Chicago"
   },
   "709": {
     "Region":"NL",
@@ -1257,227 +1257,227 @@ module.exports = {
   "712": {
     "Region":"IA",
     "TimezoneOffset":"-6",
-    "Description":"W Iowa: Council Bluffs"
+    "Description":"Western Iowa: Council Bluffs"
   },
   "713": {
     "Region":"TX",
     "TimezoneOffset":"-6",
-    "Description":"Mid SE Texas: central Houston (split,281; overlay832)"
+    "Description":"Middle South Eastern Texas: central Houston"
   },
   "714": {
     "Region":"CA",
     "TimezoneOffset":"-8",
-    "Description":"Northern and western Orange County (see split949, overlay657)"
+    "Description":"Northern and western Orange County"
   },
   "715": {
     "Region":"WI",
     "TimezoneOffset":"-6",
-    "Description":"N Wisconsin: Eau Claire, Wausau, Superior"
+    "Description":"Northern Wisconsin: including Eau Claire, Wausau, Superior"
   },
   "716": {
     "Region":"NY",
     "TimezoneOffset":"-5",
-    "Description":"NW New York: Buffalo (see split585)"
+    "Description":"North Western New York: Buffalo"
   },
   "717": {
     "Region":"PA",
     "TimezoneOffset":"-5",
-    "Description":"E Pennsylvania: Harrisburg (see split570)"
+    "Description":"Eastern Pennsylvania: Harrisburg"
   },
   "718": {
     "Region":"NY",
     "TimezoneOffset":"-5",
-    "Description":"New York City, New York (Queens, Staten Island, The Bronx, and Brooklyn; also Marble Hill section of Manhattan; see212,347,929)"
+    "Description":"New York City, New York including Queens, Staten Island, The Bronx, and Brooklyn; also Marble Hill section of Manhattan"
   },
   "719": {
     "Region":"CO",
     "TimezoneOffset":"-7",
-    "Description":"SE Colorado: Pueblo, Colorado Springs"
+    "Description":"South Eastern Colorado: Pueblo, Colorado Springs"
   },
   "720": {
     "Region":"CO",
     "TimezoneOffset":"-7",
-    "Description":"Central Colorado: Denver (overlaid on303)"
+    "Description":"Central Colorado: Denver"
   },
   "721": {
     "Region":"None",
     "TimezoneOffset":"-4",
-    "Description":"Sint Maarten (used to be country code +599)"
+    "Description":"Sint Maarten"
   },
   "724": {
     "Region":"PA",
     "TimezoneOffset":"-5",
-    "Description":"SW Pennsylvania (areas outside metro Pittsburgh; split from412)"
+    "Description":"SW Pennsylvania"
   },
   "725": {
     "Region":"NV",
     "TimezoneOffset":"-8",
-    "Description":"S. Nevada: Clark County, incl Las Vegas (overlaid on702, eff 6/2014; see also775)"
+    "Description":"S. Nevada: Clark County, incl Las Vegas"
   },
   "727": {
     "Region":"FL",
     "TimezoneOffset":"-5",
-    "Description":"Florida Tampa Metro: Saint Petersburg, Clearwater (Pinellas and parts of Pasco County; split from813)"
+    "Description":"Florida Tampa Metro: Saint Petersburg, Clearwater including Pinellas and parts of Pasco County"
   },
   "731": {
     "Region":"TN",
     "TimezoneOffset":"-6",
-    "Description":"W Tennessee: outside Memphis metro area (split from901, perm 2/12/01, mand 9/17/01)"
+    "Description":"Western Tennessee: outside Memphis metro area"
   },
   "732": {
     "Region":"NJ",
     "TimezoneOffset":"-5",
-    "Description":"Cent. New Jersey: Toms River, New Brunswick, Bound Brook (see overlay848)"
+    "Description":"Central New Jersey: including Toms River, New Brunswick, Bound Brook"
   },
   "734": {
     "Region":"MI",
     "TimezoneOffset":"-5",
-    "Description":"SE Michigan: west and south of Detroit -- Ann Arbor, Monroe (split from313)"
+    "Description":"South Eastern Michigan: west and south of Detroit including Ann Arbor, Monroe"
   },
   "737": {
     "Region":"TX",
     "TimezoneOffset":"-6",
-    "Description":"S Texas: Austin (overlaid on512, suspended; see also361)"
+    "Description":"Southern Texas: Austin"
   },
   "740": {
     "Region":"OH",
     "TimezoneOffset":"-5",
-    "Description":"SE and Central Ohio (outside Columbus; split from614; overlay220)"
+    "Description":"South Eastern and Central Ohio: outside Columbus"
   },
   "747": {
     "Region":"CA",
     "TimezoneOffset":"-8",
-    "Description":"S California: Los Angeles, Agoura Hills, Calabasas, Hidden Hills, and Westlake Village (see818; implementation suspended)"
+    "Description":"Southern California: Los Angeles, Agoura Hills, Calabasas, Hidden Hills, and Westlake Village"
   },
   "754": {
     "Region":"FL",
     "TimezoneOffset":"-5",
-    "Description":"Florida: Broward County area, incl Ft. Lauderdale (overlaid on954; perm 8/1/01, mand 9/1/01)"
+    "Description":"Florida: Broward County area, incl Ft. Lauderdale"
   },
   "757": {
     "Region":"VA",
     "TimezoneOffset":"-5",
-    "Description":"E Virginia: Tidewater / Hampton Roads area -- Norfolk, Virginia Beach, Chesapeake, Portsmouth, Hampton, Newport News, Suffolk (part of what used to be804)"
+    "Description":"Eastern Virginia: Tidewater / Hampton Roads area including Norfolk, Virginia Beach, Chesapeake, Portsmouth, Hampton, Newport News, Suffolk"
   },
   "758": {
     "Region":"None",
     "TimezoneOffset":"-4",
-    "Description":"St. Lucia (split from809)"
+    "Description":"St. Lucia"
   },
   "760": {
     "Region":"CA",
     "TimezoneOffset":"-8",
-    "Description":"California: San Diego North County to Sierra Nevada (split from619; see overlay442)"
+    "Description":"California: San Diego North County to Sierra Nevada"
   },
   "762": {
     "Region":"GA",
     "TimezoneOffset":"-5",
-    "Description":"N Georgia: Columbus, Augusta (overlaid on706)"
+    "Description":"Northern Georgia: Columbus, Augusta"
   },
   "763": {
     "Region":"MN",
     "TimezoneOffset":"-6",
-    "Description":"Minnesota: Minneapolis NW (split from612; see also952)"
+    "Description":"Minnesota: North Western Minneapolis"
   },
   "764": {
     "Region":"CA",
     "TimezoneOffset":"-8",
-    "Description":"(overlay on650; SUSPENDED)"
+    "Description":"SUSPENDED"
   },
   "765": {
     "Region":"IN",
     "TimezoneOffset":"-5",
-    "Description":"Indiana: outside Indianapolis (split from317)"
+    "Description":"Indiana: outside Indianapolis"
   },
   "767": {
-    "Region":"--",
+    "Region":"None",
     "TimezoneOffset":"-4",
-    "Description":"Dominica (split from809)"
+    "Description":"Dominica"
   },
   "769": {
     "Region":"MS",
     "TimezoneOffset":"-6",
-    "Description":"Mississippi: Meridian, Jackson area (overlaid on601; perm 7/19/04, mand 3/14/05)"
+    "Description":"Mississippi: Meridian, Jackson area"
   },
   "770": {
     "Region":"GA",
     "TimezoneOffset":"-5",
-    "Description":"Georgia: Atlanta suburbs: outside of I-285ring road (part of what used to be404; see also overlay678)"
+    "Description":"Georgia: Atlanta suburbs: outside of I-285 ring road"
   },
   "772": {
     "Region":"FL",
     "TimezoneOffset":"-5",
-    "Description":"S. Central Florida: St. Lucie, Martin, and Indian River counties (split from561; eff 2/11/02; mand 11/11/02)"
+    "Description":"South Central Florida: St. Lucie, Martin, and Indian River counties"
   },
   "773": {
     "Region":"IL",
     "TimezoneOffset":"-6",
-    "Description":"Illinois: city of Chicago, outside the loop (see312; overlay872)"
+    "Description":"Illinois: city of Chicago"
   },
   "774": {
     "Region":"MA",
     "TimezoneOffset":"-5",
-    "Description":"Cent. Massachusetts: Framingham; Cape Cod (see split978, overlaid on508, eff 4/2/01)"
+    "Description":"Cent. Massachusetts: Framingham; Cape Cod"
   },
   "775": {
     "Region":"NV",
     "TimezoneOffset":"-8",
-    "Description":"N. Nevada: Reno (all of NV except Clark County area; see702)"
+    "Description":"N. Nevada: Reno"
   },
   "778": {
     "Region":"BC",
     "TimezoneOffset":"-8",
-    "Description":"Canada: British Columbia: Greater Vancouver (overlaid on604, per 11/3/01; see also250)"
+    "Description":"Canada: British Columbia: Greater Vancouver"
   },
   "779": {
     "Region":"IL",
     "TimezoneOffset":"-6",
-    "Description":"NW Illinois: Rockford, Kankakee (overlaid on815; eff 8/19/06, mand 2/17/07)"
+    "Description":"North Western Illinois: Rockford, Kankakee"
   },
   "780": {
     "Region":"AB",
     "TimezoneOffset":"-7",
-    "Description":"Canada: Northern Alberta, north of Lacombe (see403,825)"
+    "Description":"Canada: Northern Alberta, north of Lacombe"
   },
   "781": {
     "Region":"MA",
     "TimezoneOffset":"-5",
-    "Description":"Massachusetts: Boston surburbs, to the north and west (see splits617,508; overlay339)"
+    "Description":"Massachusetts: Boston surburbs"
   },
   "782": {
     "Region":"NS",
     "TimezoneOffset":"-4",
-    "Description":"Nova Scotia & Prince Edward Island (to be overlaid on902, eff 11/30/14)"
+    "Description":"Nova Scotia & Prince Edward Island "
   },
   "784": {
-    "Region":"--",
+    "Region":"None",
     "TimezoneOffset":"-4",
-    "Description":"St. Vincent & Grenadines (split from809)"
+    "Description":"St. Vincent & Grenadines"
   },
   "785": {
     "Region":"KS",
     "TimezoneOffset":"-6",
-    "Description":"N & W Kansas: Topeka (split from913)"
+    "Description":"Northern and Western Kansas: Topeka"
   },
   "786": {
     "Region":"FL",
     "TimezoneOffset":"-5",
-    "Description":"SE Florida, Monroe County (Miami; overlaid on305)"
+    "Description":"South Eastern Florida, Monroe County"
   },
   "787": {
     "Region":"PR",
     "TimezoneOffset":"-4*",
-    "Description":"Puerto Rico (see overlay939, perm 8/1/01)"
+    "Description":"Puerto Rico"
   },
   "800": {
     "Region":"None",
     "TimezoneOffset":"None",
-    "Description":"US/Canada toll free (see888,877,866,855,844,833,822)"
+    "Description":"US/Canada toll free (see also 888,877,866,855,844,833,822)"
   },
   "801": {
     "Region":"UT",
     "TimezoneOffset":"-7",
-    "Description":"Utah: Salt Lake City Metro (see split385, eff 3/30/02; see also split435)"
+    "Description":"Utah: Salt Lake City Metro"
   },
   "802": {
     "Region":"VT",
@@ -1487,17 +1487,17 @@ module.exports = {
   "803": {
     "Region":"SC",
     "TimezoneOffset":"-5",
-    "Description":"South Carolina: Columbia, Aiken, Sumter (see843,864)"
+    "Description":"South Carolina: Columbia, Aiken, Sumter"
   },
   "804": {
     "Region":"VA",
     "TimezoneOffset":"-5",
-    "Description":"E Virginia: Richmond (see splits757,434)"
+    "Description":"Eastern Virginia: Richmond"
   },
   "805": {
     "Region":"CA",
     "TimezoneOffset":"-8",
-    "Description":"S Cent. and Cent. Coastal California: Ventura County, Santa Barbara County: San Luis Obispo, Thousand Oaks, Carpinteria, Santa Barbara, Santa Maria, Lompoc, Santa Ynez Valley / Solvang (see661split)"
+    "Description":"South Central and Central Coastal California: including Ventura County, Santa Barbara County: San Luis Obispo, Thousand Oaks, Carpinteria, Santa Barbara, Santa Maria, Lompoc, Santa Ynez Valley / Solvang"
   },
   "806": {
     "Region":"TX",
@@ -1507,7 +1507,7 @@ module.exports = {
   "807": {
     "Region":"ON",
     "TimezoneOffset":"0.833333333",
-    "Description":"Canada: W Ontario: Thunder Bay region to Manitoba border"
+    "Description":"Canada: Western Ontario: Thunder Bay region to Manitoba border"
   },
   "808": {
     "Region":"HI",
@@ -1517,12 +1517,12 @@ module.exports = {
   "809": {
     "Region":"None",
     "TimezoneOffset":"-4",
-    "Description":"Dominican Republic (see splits264,268,284,340,441,473,664,758,767,784,868,876; overlay829)"
+    "Description":"Dominican Republic"
   },
   "810": {
     "Region":"MI",
     "TimezoneOffset":"-5",
-    "Description":"E Michigan: Flint, Pontiac (see248; split586)"
+    "Description":"Eastern Michigan: Flint, Pontiac"
   },
   "811": {
     "Region":"None",
@@ -1532,42 +1532,42 @@ module.exports = {
   "812": {
     "Region":"IN",
     "TimezoneOffset":"1.2",
-    "Description":"S Indiana: Evansville, Cincinnati outskirts in IN, Columbus, Bloomington (mostly GMT-5)"
+    "Description":"Southern Indiana: including Evansville, Cincinnati outskirts in IN, Columbus, Bloomington"
   },
   "813": {
     "Region":"FL",
     "TimezoneOffset":"-5",
-    "Description":"SW Florida: Tampa Metro (splits727St. Petersburg, Clearwater, and941Sarasota)"
+    "Description":"South Western Florida: Tampa Metro"
   },
   "814": {
     "Region":"PA",
     "TimezoneOffset":"-5",
-    "Description":"Cent. Pennsylvania: Erie"
+    "Description":"Central Pennsylvania: Erie"
   },
   "815": {
     "Region":"IL",
     "TimezoneOffset":"-6",
-    "Description":"NW Illinois: Rockford, Kankakee (see overlay779; eff 8/19/06, mand 2/17/07)"
+    "Description":"North Western Illinois: Rockford, Kankakee"
   },
   "816": {
     "Region":"MO",
     "TimezoneOffset":"-6",
-    "Description":"N Missouri: Kansas City (see split660, overlay975)"
+    "Description":"Northern Missouri: Kansas City"
   },
   "817": {
     "Region":"TX",
     "TimezoneOffset":"-6",
-    "Description":"N Cent. Texas: Fort Worth area (see254,940)"
+    "Description":"North Central Texas: Fort Worth area"
   },
   "818": {
     "Region":"CA",
     "TimezoneOffset":"-8",
-    "Description":"S California: Los Angeles: San Fernando Valley (see213,310,562,626,747)"
+    "Description":"Southern California: Los Angeles: San Fernando Valley"
   },
   "819": {
     "Region":"QC",
     "TimezoneOffset":"-5",
-    "Description":"NW Quebec: Trois Rivieres, Sherbrooke, Outaouais (Gatineau, Hull), and the Laurentians (up to St Jovite / Tremblant) (see split867; see overlay873)"
+    "Description":"North Western Quebec: including Trois Rivieres, Sherbrooke, Outaouais (Gatineau, Hull), and the Laurentians"
   },
   "822": {
     "Region":"None",
@@ -1577,22 +1577,22 @@ module.exports = {
   "825": {
     "Region":"AB",
     "TimezoneOffset":"-7",
-    "Description":"Alberta (overlay; see403587780)"
+    "Description":"Alberta"
   },
   "828": {
     "Region":"NC",
     "TimezoneOffset":"-5",
-    "Description":"W North Carolina: Asheville (split from704)"
+    "Description":"Western North Carolina: Asheville"
   },
   "829": {
-    "Region":"--",
+    "Region":"None",
     "TimezoneOffset":"-4",
-    "Description":"Dominican Republic (perm 1/31/05; mand 8/1/05; overlaid on809)"
+    "Description":"Dominican Republic"
   },
   "830": {
     "Region":"TX",
     "TimezoneOffset":"-6",
-    "Description":"Texas: region surrounding San Antonio (split from210)"
+    "Description":"Texas: region surrounding San Antonio"
   },
   "831": {
     "Region":"CA",
@@ -1602,7 +1602,7 @@ module.exports = {
   "832": {
     "Region":"TX",
     "TimezoneOffset":"-6",
-    "Description":"Texas: Houston (overlay713/281)"
+    "Description":"Texas: Houston"
   },
   "833": {
     "Region":"None",
@@ -1612,12 +1612,12 @@ module.exports = {
   "835": {
     "Region":"PA",
     "TimezoneOffset":"-5",
-    "Description":"SE Pennsylvania: Allentown, Bethlehem, Reading, West Chester, Norristown (overlaid on610, eff 5/1/01; see also484)"
+    "Description":"South Esdtern Pennsylvania: including Allentown, Bethlehem, Reading, West Chester, Norristown"
   },
   "843": {
     "Region":"SC",
     "TimezoneOffset":"-5",
-    "Description":"South Carolina, coastal area: Charleston, Beaufort, Myrtle Beach (split from803)"
+    "Description":"South Carolina, coastal area: Charleston, Beaufort, Myrtle Beach"
   },
   "844": {
     "Region":"None",
@@ -1627,17 +1627,17 @@ module.exports = {
   "845": {
     "Region":"NY",
     "TimezoneOffset":"-5",
-    "Description":"New York: Poughkeepsie; Nyack, Nanuet, Valley Cottage, New City, Putnam, Dutchess, Rockland, Orange, Ulster and parts of Sullivan counties in New York's lower Hudson Valley and Delaware County in the Catskills (see914; perm 6/5/00)"
+    "Description":"New York: Poughkeepsie; Nyack, Nanuet, Valley Cottage, New City, Putnam, Dutchess, Rockland, Orange, Ulster and parts of Sullivan counties in New York's lower Hudson Valley and Delaware County in the Catskills"
   },
   "847": {
     "Region":"IL",
     "TimezoneOffset":"-6",
-    "Description":"Northern NE Illinois: northwestern suburbs of chicago including Evanston, Waukegan, Northbrook"
+    "Description":"Northern North Eastern Illinois: northwestern suburbs of chicago including Evanston, Waukegan, Northbrook"
   },
   "848": {
     "Region":"NJ",
     "TimezoneOffset":"-5",
-    "Description":"Cent. New Jersey: Toms River, New Brunswick, Bound Brook"
+    "Description":"Central New Jersey: Toms River, New Brunswick, Bound Brook"
   },
   "849": {
     "Region":"None",
@@ -1647,57 +1647,57 @@ module.exports = {
   "850": {
     "Region":"FL",
     "TimezoneOffset":"1.2",
-    "Description":"Florida panhandle, from east of Tallahassee to Pensacola (split from904); western panhandle (Pensacola, Panama City) are UTC-6"
+    "Description":"Florida panhandle, from east of Tallahassee to Pensacola; western panhandle (Pensacola, Panama City)"
   },
   "855": {
-    "Region":"--",
+    "Region":"None",
     "TimezoneOffset":"?",
     "Description":"US/Canada toll free"
   },
   "856": {
     "Region":"NJ",
     "TimezoneOffset":"-5",
-    "Description":"SW New Jersey: greater Camden area, Mt Laurel (split from609)"
+    "Description":"South Western New Jersey: greater Camden area, Mt Laurel"
   },
   "857": {
     "Region":"MA",
     "TimezoneOffset":"-5",
-    "Description":"Massachusetts: greater Boston (overlaid on617, eff 4/2/01)"
+    "Description":"Massachusetts: greater Boston"
   },
   "858": {
     "Region":"CA",
     "TimezoneOffset":"-8",
-    "Description":"S California: San Diego (see split760; overlay619,935)"
+    "Description":"Southern California: San Diego"
   },
   "859": {
     "Region":"KY",
     "TimezoneOffset":"-5",
-    "Description":"N and Central Kentucky: Lexington; suburban KY counties of Cincinnati OH metro area; Covington, Newport, Ft. Thomas, Ft. Wright, Florence (split from606)"
+    "Description":"Northern and Central Kentucky: Lexington; suburban KY counties of Cincinnati OH metro area; Covington, Newport, Ft. Thomas, Ft. Wright, Florence"
   },
   "860": {
     "Region":"CT",
     "TimezoneOffset":"-5",
-    "Description":"Connecticut: areas outside of Fairfield and New Haven Counties (split from203, overlay959)"
+    "Description":"Connecticut: areas outside of Fairfield and New Haven Counties"
   },
   "862": {
     "Region":"NJ",
     "TimezoneOffset":"-5",
-    "Description":"N New Jersey: Newark Paterson Morristown (overlaid on973)"
+    "Description":"Northern New Jersey: Newark Paterson Morristown"
   },
   "863": {
     "Region":"FL",
     "TimezoneOffset":"-5",
-    "Description":"Florida: Lakeland, Polk County (split from941)"
+    "Description":"Florida: Lakeland, Polk County"
   },
   "864": {
     "Region":"SC",
     "TimezoneOffset":"-5",
-    "Description":"South Carolina, upstate area: Greenville, Spartanburg (split from803)"
+    "Description":"South Carolina, upstate area: Greenville, Spartanburg"
   },
   "865": {
     "Region":"TN",
     "TimezoneOffset":"-5",
-    "Description":"E Tennessee: Knoxville, Knox and adjacent counties (split from423; part of what used to be615)"
+    "Description":"Eastern Tennessee: Knoxville, Knox and adjacent counties"
   },
   "866": {
     "Region":"None",
@@ -1707,12 +1707,12 @@ module.exports = {
   "867": {
     "Region":"YT",
     "TimezoneOffset":"0.014880952",
-    "Description":"Canada: Yukon, Northwest Territories, Nunavut (split from403/819)"
+    "Description":"Canada: Yukon, Northwest Territories, Nunavut"
   },
   "868": {
     "Region":"None",
     "TimezoneOffset":"-4",
-    "Description":"Trinidad and Tobago (\"new\" -- see809)"
+    "Description":"Trinidad and Tobago"
   },
   "869": {
     "Region":"None",
@@ -1727,17 +1727,17 @@ module.exports = {
   "872": {
     "Region":"IL",
     "TimezoneOffset":"-6",
-    "Description":"Illinois: Chicago (downtown only -- in the loop; see773; overlaid on312and773)"
+    "Description":"Illinois: Chicago (downtown only -- in the loop)"
   },
   "873": {
     "Region":"QC",
     "TimezoneOffset":"-5",
-    "Description":"NW Quebec: Trois Rivieres, Sherbrooke, Outaouais (Gatineau, Hull), and the Laurentians (up to St Jovite / Tremblant) (overlaid on819)"
+    "Description":"North Western Quebec: Trois Rivieres, Sherbrooke, Outaouais (Gatineau, Hull), and the Laurentians"
   },
   "876": {
     "Region":"None",
     "TimezoneOffset":"-5",
-    "Description":"Jamaica (split from809)"
+    "Description":"Jamaica"
   },
   "877": {
     "Region":"None",
@@ -1747,10 +1747,10 @@ module.exports = {
   "878": {
     "Region":"PA",
     "TimezoneOffset":"-5",
-    "Description":"Pittsburgh, New Castle (overlaid on412, perm 8/17/01, mand t.b.a.)"
+    "Description":"Pittsburgh, New Castle"
   },
   "880": {
-    "Region":"--",
+    "Region":"None",
     "TimezoneOffset":"--",
     "Description":"Paid Toll-Free Service"
   },
@@ -1765,49 +1765,49 @@ module.exports = {
     "Description":"Paid Toll-Free Service"
   },
   "888": {
-    "Region":"--",
+    "Region":"None",
     "TimezoneOffset":"?",
     "Description":"US/Canada toll free"
   },
   "898": {
-    "Region":"--",
+    "Region":"None",
     "TimezoneOffset":"?",
     "Description":"VoIP service"
   },
   "900": {
-    "Region":"--",
+    "Region":"None",
     "TimezoneOffset":"?",
     "Description":"US toll calls -- prices vary with the number called"
   },
   "901": {
     "Region":"TN",
     "TimezoneOffset":"-6",
-    "Description":"W Tennessee: Memphis metro area (see615,931, split731)"
+    "Description":"Western Tennessee: Memphis metro area"
   },
   "902": {
     "Region":"NS",
     "TimezoneOffset":"-4",
-    "Description":"Canada: Nova Scotia, Prince Edward Island (see overlay782)"
+    "Description":"Canada: Nova Scotia, Prince Edward Island"
   },
   "903": {
     "Region":"TX",
     "TimezoneOffset":"-6",
-    "Description":"NE Texas: Tyler (see overlay430, eff 7/20/02)"
+    "Description":"Nort Eastern Texas: Tyler"
   },
   "904": {
     "Region":"FL",
     "TimezoneOffset":"-5",
-    "Description":"N Florida: Jacksonville (see splits352,386,850)"
+    "Description":"N Florida: Jacksonville"
   },
   "905": {
     "Region":"ON",
     "TimezoneOffset":"-5",
-    "Description":"Canada: S Cent. Ontario: Greater Toronto Area -- Durham, Halton, Hamilton-Wentworth, Niagara, Peel, York, and southern Simcoe County (excluding Toronto -- see overlay289,365, splits416,647)"
+    "Description":"Canada: South Central Ontario: Greater Toronto Area -- Durham, Halton, Hamilton-Wentworth, Niagara, Peel, York, and southern Simcoe County (excluding Toronto)"
   },
   "906": {
     "Region":"MI",
     "TimezoneOffset":"1.2",
-    "Description":"Upper Peninsula Michigan: Sault Ste. Marie, Escanaba, Marquette (UTC-6 towards the WI border)"
+    "Description":"Upper Peninsula Michigan: Sault Ste. Marie, Escanaba, Marquette"
   },
   "907": {
     "Region":"AK",
@@ -1822,12 +1822,12 @@ module.exports = {
   "909": {
     "Region":"CA",
     "TimezoneOffset":"-8",
-    "Description":"California: Inland empire: San Bernardino (see split951), Riverside"
+    "Description":"California: Inland empire: San Bernardino Riverside"
   },
   "910": {
     "Region":"NC",
     "TimezoneOffset":"-5",
-    "Description":"S Cent. North Carolina: Fayetteville, Wilmington (see336)"
+    "Description":"South Central North Carolina: Fayetteville, Wilmington"
   },
   "911": {
     "Region":"None",
@@ -1837,52 +1837,52 @@ module.exports = {
   "912": {
     "Region":"GA",
     "TimezoneOffset":"-5",
-    "Description":"SE Georgia: Savannah (see splits229,478)"
+    "Description":"South Eastern Georgia: Savannah"
   },
   "913": {
     "Region":"KS",
     "TimezoneOffset":"-6",
-    "Description":"Kansas: Kansas City area (see785)"
+    "Description":"Kansas: Kansas City area"
   },
   "914": {
     "Region":"NY",
     "TimezoneOffset":"-5",
-    "Description":"S New York: Westchester County (see845)"
+    "Description":"Southern New York: Westchester County"
   },
   "915": {
     "Region":"TX",
     "TimezoneOffset":"1.166666667",
-    "Description":"W Texas: El Paso (see splits325eff 4/5/03;432, eff 4/5/03)"
+    "Description":"Western Texas: El Paso"
   },
   "916": {
     "Region":"CA",
     "TimezoneOffset":"-8",
-    "Description":"NE California: Sacramento, Walnut Grove, Lincoln, Newcastle and El Dorado Hills (split to530)"
+    "Description":"North Eastern California: Sacramento, Walnut Grove, Lincoln, Newcastle and El Dorado Hills"
   },
   "917": {
     "Region":"NY",
     "TimezoneOffset":"-5",
-    "Description":"New York: New York City (cellular, see646)"
+    "Description":"New York: New York City"
   },
   "918": {
     "Region":"OK",
     "TimezoneOffset":"-6",
-    "Description":"E Oklahoma: Tulsa (see overlay539)"
+    "Description":"E Oklahoma: Tulsa"
   },
   "919": {
     "Region":"NC",
     "TimezoneOffset":"-5",
-    "Description":"E North Carolina: Raleigh (see split252, overlay984)"
+    "Description":"Eastern North Carolina: Raleigh"
   },
   "920": {
     "Region":"WI",
     "TimezoneOffset":"-6",
-    "Description":"NE Wisconsin: Appleton, Green Bay, Sheboygan, Fond du Lac (from Beaver Dam NE to Oshkosh, Appleton, and Door County; part of what used to be414)"
+    "Description":"North Eastern Wisconsin: Appleton, Green Bay, Sheboygan, Fond du Lac"
   },
   "925": {
     "Region":"CA",
     "TimezoneOffset":"-8",
-    "Description":"California: Contra Costa area: Antioch, Concord, Pleasanton, Walnut Creek (split from510)"
+    "Description":"California: Contra Costa area: Antioch, Concord, Pleasanton, Walnut Creek"
   },
   "927": {
     "Region":"FL",
@@ -1892,147 +1892,147 @@ module.exports = {
   "928": {
     "Region":"AZ",
     "TimezoneOffset":"-7*",
-    "Description":"Central and Northern Arizona: Prescott, Flagstaff, Yuma (split from520)"
+    "Description":"Central and Northern Arizona: Prescott, Flagstaff, Yuma"
   },
   "929": {
     "Region":"NY",
     "TimezoneOffset":"-5",
-    "Description":"New York City, New York (Queens, Staten Island, The Bronx, and Brooklyn; also Marble Hill section of Manhattan; see212,347,718)"
+    "Description":"New York City, New York (Queens, Staten Island, The Bronx, and Brooklyn; also Marble Hill section of Manhattan"
   },
   "931": {
     "Region":"TN",
     "TimezoneOffset":"-6",
-    "Description":"Middle Tennessee: semi-circular ring around Nashville (split from615)"
+    "Description":"Middle Tennessee: semi-circular ring around Nashville"
   },
   "935": {
     "Region":"CA",
     "TimezoneOffset":"-8",
-    "Description":"S California: San Diego (see split760; overlay858,619; assigned but not in use)"
+    "Description":"Southern California: San Diego"
   },
   "936": {
     "Region":"TX",
     "TimezoneOffset":"-6",
-    "Description":"SE Texas: Conroe, Lufkin, Nacogdoches, Crockett (split from409, see also979)"
+    "Description":"South Eastern Texas: Conroe, Lufkin, Nacogdoches, Crockett"
   },
   "937": {
     "Region":"OH",
     "TimezoneOffset":"-5",
-    "Description":"SW Ohio: Dayton (part of what used to be513)"
+    "Description":"South Western Ohio: Dayton"
   },
   "939": {
     "Region":"PR",
     "TimezoneOffset":"-4*",
-    "Description":"Puerto Rico (overlaid on787, perm 8/1/01)"
+    "Description":"Puerto Rico"
   },
   "940": {
     "Region":"TX",
     "TimezoneOffset":"-6",
-    "Description":"N Cent. Texas: Denton, Wichita Falls (split from254,817)"
+    "Description":"North Cent. Texas: Denton, Wichita Falls"
   },
   "941": {
     "Region":"FL",
     "TimezoneOffset":"-5",
-    "Description":"SW Florida: Sarasota and Manatee counties (part of what used to be813; see split863)"
+    "Description":"South Western Florida: Sarasota and Manatee counties"
   },
   "947": {
     "Region":"MI",
     "TimezoneOffset":"0.833333333",
-    "Description":"Michigan: Oakland County (overlays248, perm 5/5/01)"
+    "Description":"Michigan: Oakland County"
   },
   "949": {
     "Region":"CA",
     "TimezoneOffset":"-8",
-    "Description":"California: S Coastal Orange County (split from714)"
+    "Description":"California: South Coastal Orange County"
   },
   "951": {
     "Region":"CA",
     "TimezoneOffset":"-8",
-    "Description":"California: W Riverside County (split from909; eff 7/17/04)"
+    "Description":"California: West Riverside County"
   },
   "952": {
     "Region":"MN",
     "TimezoneOffset":"-6",
-    "Description":"Minnesota: Minneapolis SW, Bloomington (split from612; see also763)"
+    "Description":"Minnesota: Minneapolis SW, Bloomington"
   },
   "954": {
     "Region":"FL",
     "TimezoneOffset":"-5",
-    "Description":"Florida: Broward County area, incl Ft. Lauderdale (part of what used to be305, see overlay754)"
+    "Description":"Florida: Broward County area, including Ft. Lauderdale"
   },
   "956": {
     "Region":"TX",
     "TimezoneOffset":"-6",
-    "Description":"Texas: Valley of Texas area; Harlingen, Laredo (split from210)"
+    "Description":"Texas: Valley of Texas area; Harlingen, Laredo"
   },
   "957": {
     "Region":"NM",
     "TimezoneOffset":"-7",
-    "Description":"New Mexico (pending; region unknown)"
+    "Description":"New Mexico"
   },
   "959": {
     "Region":"CT",
     "TimezoneOffset":"-5",
-    "Description":"Connecticut: Hartford, New London (postponed; was overlaid on860perm 1/6/01; mand 3/1/01???)"
+    "Description":"Connecticut: Hartford, New London"
   },
   "970": {
     "Region":"CO",
     "TimezoneOffset":"-7",
-    "Description":"N and W Colorado (part of what used to be303)"
+    "Description":"North and Western Colorado"
   },
   "971": {
     "Region":"OR",
     "TimezoneOffset":"-8",
-    "Description":"Oregon: Metropolitan Portland, Salem/Keizer area, incl Cricket Wireless (see503; perm 10/1/00)"
+    "Description":"Oregon: Metropolitan Portland, Salem/Keizer area, including Cricket Wireless"
   },
   "972": {
     "Region":"TX",
     "TimezoneOffset":"-6",
-    "Description":"Texas: Dallas Metro (overlays214/469)"
+    "Description":"Texas: Dallas Metro"
   },
   "973": {
     "Region":"NJ",
     "TimezoneOffset":"-5",
-    "Description":"N New Jersey: Newark, Paterson, Morristown (see overlay862; split from201)"
+    "Description":"Northenr New Jersey: Newark, Paterson, Morristown"
   },
   "975": {
     "Region":"MO",
     "TimezoneOffset":"-6",
-    "Description":"N Missouri: Kansas City (overlaid on816)"
+    "Description":"Northern Missouri: Kansas City"
   },
   "976": {
-    "Region":"--",
+    "Region":"None",
     "TimezoneOffset":"--",
     "Description":"Unassigned"
   },
   "978": {
     "Region":"MA",
     "TimezoneOffset":"-5",
-    "Description":"Massachusetts: north of Boston to NH (see split978-- this is the northern half of old508; see overlay351)"
+    "Description":"Massachusetts: north of Boston to New Hampshire"
   },
   "979": {
     "Region":"TX",
     "TimezoneOffset":"-6",
-    "Description":"SE Texas: Bryan, College Station, Bay City (split from409, see also936)"
+    "Description":"South Eastern Texas: Bryan, College Station, Bay City"
   },
   "980": {
     "Region":"NC",
     "TimezoneOffset":"-5",
-    "Description":"North Carolina: (overlay on704; perm 5/1/00, mand 3/15/01)"
+    "Description":"North Carolina"
   },
   "984": {
     "Region":"NC",
     "TimezoneOffset":"-5",
-    "Description":"E North Carolina: Raleigh (overlaid on919, perm 8/1/01, mand 2/5/02 POSTPONED)"
+    "Description":"Eastern North Carolina: Raleigh"
   },
   "985": {
     "Region":"LA",
     "TimezoneOffset":"-6",
-    "Description":"E Louisiana: SE/N shore of Lake Pontchartrain: Hammond, Slidell, Covington, Amite, Kentwood, area SW of New Orleans, Houma, Thibodaux, Morgan City (split from504; perm 2/12/01; mand 10/22/01)"
+    "Description":"Eastern Louisiana: South Eastern/North shore of Lake Pontchartrain: Hammond, Slidell, Covington, Amite, Kentwood, area SW of New Orleans, Houma, Thibodaux, Morgan City"
   },
   "989": {
     "Region":"MI",
     "TimezoneOffset":"-5",
-    "Description":"Upper central Michigan: Mt Pleasant, Saginaw (split from517; perm 4/7/01)"
+    "Description":"Upper Central Michigan: Mt Pleasant, Saginaw"
   },
   "999": {
     "Region":"None",
